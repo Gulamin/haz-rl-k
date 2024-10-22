@@ -1,1 +1,1 @@
-# haz-rl-k
+# haz-rl-k dosyası gelecek çok yakında
